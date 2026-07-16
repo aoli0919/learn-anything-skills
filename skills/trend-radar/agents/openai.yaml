@@ -1,0 +1,4 @@
+display_name: Trend Radar
+short_description: Turn fast-moving field updates into a small weekly learning radar.
+default_prompt: "$trend-radar Scan what matters in this field this week. Give me top signals, hype to ignore, learning implication, and today's move."
+

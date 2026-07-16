@@ -142,8 +142,8 @@ def main() -> None:
         fail(f"skillpack.json skills do not match skills/ directories: manifest={sorted(manifest_set)} dirs={sorted(dir_set)}")
 
     skill_files = sorted(SKILLS.glob("*/SKILL.md"))
-    if len(skill_files) < 6:
-        fail("Expected at least six skills.")
+    if len(skill_files) < 14:
+        fail("Expected at least fourteen skills.")
 
     errors: list[str] = []
     for skill_file in skill_files:

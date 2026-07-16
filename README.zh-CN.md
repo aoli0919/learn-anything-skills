@@ -18,6 +18,16 @@
 4. **Paper to Practice**：把论文、视频、教程变成可操作的学习卡。
 5. **Project Lab**：把知识变成 2 小时、1 天、1 周的小项目。
 6. **Reflection Memory**：记录复盘，让学习不断累积。
+7. **Trend Radar**：把热点、论文、发布、争议变成每周学习雷达。
+8. **Source Scout**：帮初学者从一堆资料里只选 3-5 个真正该看的。
+9. **Book to Skill**：把书、课程、PDF、长教程变成可复用学习 skill。
+10. **Codebase Apprentice**：把 GitHub 仓库或代码库变成入门课程。
+11. **Knowledge Graph**：把零散概念连成小型知识图谱。
+12. **Stuck Debugger**：诊断为什么卡住，并降级成 30 分钟恢复任务。
+13. **Exam Simulator**：用测试、答案、rubric 找出薄弱点。
+14. **Token Frugal Mentor**：省 token、少废话，只给下一步、检查题和停止规则。
+
+后 8 个是参考当前热门 skills 的共性加上的扩展：省 token、资源筛选、书转 skill、代码库转课程、知识图谱、卡住诊断、考试验证、热点雷达。
 
 ## 适合谁
 

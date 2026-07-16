@@ -1,0 +1,4 @@
+display_name: Token Frugal Mentor
+short_description: Give concise learning guidance with one task, one check, one stop rule, and low token overhead.
+default_prompt: "$token-frugal-mentor Be concise. Give me only the goal, today's task, done-when, check question, ignore list, and log sentence."
+

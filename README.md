@@ -2,7 +2,7 @@
 
 [![Validate](https://github.com/aoli0919/learn-anything-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/aoli0919/learn-anything-skills/actions/workflows/validate.yml)
 ![MIT](https://img.shields.io/badge/license-MIT-green)
-![Skills](https://img.shields.io/badge/skills-6-blue)
+![Skills](https://img.shields.io/badge/skills-14-blue)
 ![Beginner First](https://img.shields.io/badge/beginner--first-yes-orange)
 
 A beginner-first agent skill pack that turns "I want to learn X" into a 30-day path, tutor loop, projects, and learning memory.
@@ -131,9 +131,11 @@ I am new to embodied AI. I know basic Python and a little machine learning.
 Use the learning system to give me a 30-day plan and today's first task.
 ```
 
-## The Six Skills
+## The 14 Skills
 
-### 1. Learning Compass
+### Core Learning Loop
+
+#### 1. Learning Compass
 
 Use this when your goal is messy:
 
@@ -143,7 +145,7 @@ I want to learn embodied AI, but I do not know where to start.
 
 It produces a learning brief, prerequisite audit, 30-day loop, first week plan, and one concrete task for today.
 
-### 2. Field Primer
+#### 2. Field Primer
 
 Use this when a field feels like a wall of words.
 
@@ -156,13 +158,13 @@ It builds a beginner map with:
 - common beginner traps
 - what to ignore for now
 
-### 3. Socratic Tutor
+#### 3. Socratic Tutor
 
 Use this when you want to learn actively instead of passively reading.
 
 It teaches one idea at a time, asks short questions, catches fuzzy understanding, and adapts the next explanation.
 
-### 4. Paper to Practice
+#### 4. Paper to Practice
 
 Use this when you have a paper, blog post, lecture, or GitHub repo and want to understand what it means in practice.
 
@@ -175,17 +177,53 @@ It extracts:
 - what a beginner should reproduce
 - what to read next
 
-### 5. Project Lab
+#### 5. Project Lab
 
 Use this when you need a small build.
 
 It creates 2-hour, 1-day, and 1-week projects that turn vague knowledge into visible progress.
 
-### 6. Reflection Memory
+#### 6. Reflection Memory
 
 Use this at the end of a session.
 
 It writes a learning log, captures open questions, schedules review, and updates tomorrow's task.
+
+### Hot Skill Extensions
+
+These eight skills were added after reviewing popular skill patterns: concise mode, human-centered outputs, source curation, book/course conversion, codebase-to-course workflows, graph-style knowledge maps, diagnosis loops, and validation through tests.
+
+#### 7. Trend Radar
+
+Use this for fast-moving fields. It turns recent papers, launches, debates, and news into a weekly learning radar with hype to ignore and one action to take.
+
+#### 8. Source Scout
+
+Use this when you have too many tabs. It ranks 3-5 trustworthy resources and tells you exactly what to use, skip, and do first.
+
+#### 9. Book to Skill
+
+Use this when a book, course, PDF, or long guide should become a reusable study system with chapter maps, cards, and a first session.
+
+#### 10. Codebase Apprentice
+
+Use this to turn a GitHub repo or local codebase into a guided course with entry points, reading path, exercises, and first file to inspect.
+
+#### 11. Knowledge Graph
+
+Use this when concepts feel disconnected. It builds a small node-edge graph, weak nodes, review cards, and the next concept edge to study.
+
+#### 12. Stuck Debugger
+
+Use this when learning stalls. It diagnoses the blocker, downgrades the task, and gives a 30-minute recovery plan.
+
+#### 13. Exam Simulator
+
+Use this to test understanding with recall, application, transfer, answer keys, rubrics, weak spots, and review tasks.
+
+#### 14. Token Frugal Mentor
+
+Use this when you want low-token guidance: one task, one artifact, one check question, one stop rule, and one log sentence.
 
 ## Example: Embodied AI
 
@@ -205,6 +243,8 @@ More examples:
 
 - [AI paper reading loop](examples/ai-paper-reading.md)
 - [Investing thesis learning loop](examples/investing-thesis-log.md)
+- [Hot skill extensions gallery](examples/hot-skill-extensions-gallery.md)
+- [Hot skill design notes](docs/HOT_SKILL_NOTES.md)
 
 ## Installation Details
 

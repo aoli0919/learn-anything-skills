@@ -1,0 +1,4 @@
+display_name: Stuck Debugger
+short_description: Diagnose why a learner is stuck and convert it into a smaller recovery task.
+default_prompt: "$stuck-debugger I am stuck. Diagnose the blocker, downgrade the task, and give me a 30-minute recovery plan."
+

@@ -1,0 +1,4 @@
+display_name: Book To Skill
+short_description: Convert a book, course, PDF, or long guide into a reusable learning skill and study loop.
+default_prompt: "$book-to-skill Turn this long source into a study skill: chapter map, must-study sections, cards, and first session."
+

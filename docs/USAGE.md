@@ -64,6 +64,70 @@ Use when a session ends.
 $reflection-memory I learned observation, action, and policy today, but state is still fuzzy. Make a log and tomorrow's task.
 ```
 
+### $trend-radar
+
+Use when a field is changing quickly.
+
+```text
+$trend-radar What changed in embodied AI this week? Give me top signals, hype to ignore, and one learning action.
+```
+
+### $source-scout
+
+Use when you need a tiny resource stack.
+
+```text
+$source-scout Find 3-5 beginner resources for embodied AI. Rank them and tell me what to do first.
+```
+
+### $book-to-skill
+
+Use when a book, PDF, course, or long guide should become a study system.
+
+```text
+$book-to-skill Turn this course into a reusable learning skill with chapter map, cards, and first session.
+```
+
+### $codebase-apprentice
+
+Use when learning from a repository.
+
+```text
+$codebase-apprentice Teach me this GitHub repo. Give me entry points, reading path, exercises, and first file.
+```
+
+### $knowledge-graph
+
+Use when concepts feel disconnected.
+
+```text
+$knowledge-graph Map observation, state, action, policy, reward, and environment. Show weak nodes and next edge.
+```
+
+### $stuck-debugger
+
+Use when you have stalled.
+
+```text
+$stuck-debugger I am stuck on observation vs state. Diagnose the blocker and give me a 30-minute recovery task.
+```
+
+### $exam-simulator
+
+Use when you need proof of understanding.
+
+```text
+$exam-simulator Test me on embodied AI basics with answer key, rubric, weak spots, and review plan.
+```
+
+### $token-frugal-mentor
+
+Use when you want low-token guidance.
+
+```text
+$token-frugal-mentor Be concise. Give me today's task, done-when, check question, ignore list, and log sentence.
+```
+
 ## Full Learning Loop Example
 
 Day 1:

@@ -27,6 +27,10 @@ It is a beginner-first agent skill pack that turns "I want to learn X" into:
 - paper-to-practice cards
 - small projects
 - learning memory
+- trend radar
+- source scouting
+- codebase-to-course learning
+- exam simulation
 
 Example included: embodied AI from zero.
 
@@ -56,4 +60,3 @@ Use `assets/demo-terminal.svg` in the README and social posts.
 ## Star CTA
 
 Star it if you want reusable learning loops for hard technical fields, not just another resource list.
-

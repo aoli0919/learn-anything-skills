@@ -1,0 +1,4 @@
+display_name: Source Scout
+short_description: Find and rank a tiny trusted resource stack for a beginner.
+default_prompt: "$source-scout Find 3-5 trustworthy beginner resources for this topic. Rank them, cap the list, and tell me what to do first."
+

@@ -2,7 +2,7 @@
 
 ## v0.1
 
-- Six core skills
+- Fourteen skills: six core learning-loop skills plus eight hot-pattern extensions
 - Install script
 - Validation script
 - Embodied AI examples
@@ -31,4 +31,3 @@
 - Polished domain packs
 - Beginner-tested examples
 - Release package with install instructions for multiple agent environments
-

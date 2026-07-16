@@ -10,7 +10,15 @@
     "socratic-tutor",
     "paper-to-practice",
     "project-lab",
-    "reflection-memory"
+    "reflection-memory",
+    "trend-radar",
+    "source-scout",
+    "book-to-skill",
+    "codebase-apprentice",
+    "knowledge-graph",
+    "stuck-debugger",
+    "exam-simulator",
+    "token-frugal-mentor"
   ],
   "example_domains": [
     "embodied AI",
@@ -21,4 +29,3 @@
     "software engineering"
   ]
 }
-

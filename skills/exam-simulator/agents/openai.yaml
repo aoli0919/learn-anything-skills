@@ -1,0 +1,4 @@
+display_name: Exam Simulator
+short_description: Test understanding with adaptive questions, answer keys, rubrics, and targeted review.
+default_prompt: "$exam-simulator Test me on this topic. Give questions, answer key, rubric, weak spots, and review plan."
+

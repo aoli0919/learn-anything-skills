@@ -1,0 +1,4 @@
+display_name: Knowledge Graph
+short_description: Build a small concept graph with prerequisites, weak nodes, review cards, and next edge.
+default_prompt: "$knowledge-graph Map these concepts. Show nodes, edges, weak spots, review cards, and the next edge to study."
+

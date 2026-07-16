@@ -1,0 +1,4 @@
+display_name: Codebase Apprentice
+short_description: Turn a repository or codebase into a guided beginner course.
+default_prompt: "$codebase-apprentice Teach me this codebase. Map entry points, reading path, exercises, and first file to inspect."
+
