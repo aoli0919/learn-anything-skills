@@ -1,0 +1,4 @@
+display_name: Field Primer
+short_description: Build a beginner map of a field with concepts, vocabulary, examples, and traps.
+default_prompt: "$field-primer Explain this field from zero. Give me the core map, vocabulary ladder, common traps, and first three concept cards."
+

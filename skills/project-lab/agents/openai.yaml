@@ -1,0 +1,4 @@
+display_name: Project Lab
+short_description: Convert a learning goal into 2-hour, 1-day, and 1-week beginner projects.
+default_prompt: "$project-lab Give me a small project for this topic. Include tools, steps, definition of done, failure points, and reflection questions."
+

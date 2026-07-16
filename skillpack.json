@@ -1,0 +1,24 @@
+{
+  "name": "learn-anything-skills",
+  "version": "0.1.0",
+  "description": "A beginner-friendly self-learning system made of agent skills: map a field, learn concepts, turn papers into practice, build projects, and keep a feedback loop.",
+  "author": "aoli0919",
+  "license": "MIT",
+  "skills": [
+    "learning-compass",
+    "field-primer",
+    "socratic-tutor",
+    "paper-to-practice",
+    "project-lab",
+    "reflection-memory"
+  ],
+  "example_domains": [
+    "embodied AI",
+    "robotics",
+    "AI research",
+    "investing",
+    "neuroscience",
+    "software engineering"
+  ]
+}
+

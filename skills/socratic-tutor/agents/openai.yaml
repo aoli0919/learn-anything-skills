@@ -1,0 +1,4 @@
+display_name: Socratic Tutor
+short_description: Teach one concept through short explanations, checks, corrections, and micro exercises.
+default_prompt: "$socratic-tutor Teach me this concept actively. Ask me one question at a time and check whether I really understand."
+

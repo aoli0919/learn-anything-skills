@@ -1,0 +1,4 @@
+display_name: Learning Compass
+short_description: Turn a vague learning goal into a 30-day path, first week, and today's task.
+default_prompt: "$learning-compass I want to learn a new field. My background is ____. My time budget is ____. Make me a 30-day path and today's first move."
+

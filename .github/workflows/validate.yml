@@ -1,0 +1,18 @@
+name: Validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - run: python3 scripts/validate_skills.py
+      - run: python3 -m json.tool skillpack.json
+      - run: python3 scripts/install.py --dry-run
+      - run: python3 scripts/new_learning_log.py --topic embodied-ai --output-dir /tmp/learn-anything-logs

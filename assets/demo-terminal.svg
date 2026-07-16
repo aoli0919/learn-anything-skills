@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="540" viewBox="0 0 980 540" role="img" aria-label="Learn Anything Skills terminal demo">
+  <rect width="980" height="540" rx="18" fill="#0f172a"/>
+  <rect x="0" y="0" width="980" height="48" rx="18" fill="#111827"/>
+  <circle cx="30" cy="24" r="7" fill="#ef4444"/>
+  <circle cx="54" cy="24" r="7" fill="#f59e0b"/>
+  <circle cx="78" cy="24" r="7" fill="#22c55e"/>
+  <text x="110" y="30" fill="#cbd5e1" font-family="Menlo, Consolas, monospace" font-size="15">learn-anything-skills demo</text>
+
+  <text x="34" y="86" fill="#7dd3fc" font-family="Menlo, Consolas, monospace" font-size="18">$learning-compass</text>
+  <text x="34" y="118" fill="#e2e8f0" font-family="Menlo, Consolas, monospace" font-size="18">I want to learn embodied AI. I know Python and basic ML.</text>
+  <text x="34" y="150" fill="#e2e8f0" font-family="Menlo, Consolas, monospace" font-size="18">I can spend one hour a day. Give me today's first move.</text>
+
+  <rect x="30" y="184" width="920" height="1" fill="#334155"/>
+
+  <text x="34" y="230" fill="#a7f3d0" font-family="Menlo, Consolas, monospace" font-size="18">North Star</text>
+  <text x="34" y="260" fill="#e2e8f0" font-family="Menlo, Consolas, monospace" font-size="17">In 30 days: build a tiny simulated agent and explain its</text>
+  <text x="34" y="286" fill="#e2e8f0" font-family="Menlo, Consolas, monospace" font-size="17">observation-action-policy-feedback loop.</text>
+
+  <text x="34" y="332" fill="#a7f3d0" font-family="Menlo, Consolas, monospace" font-size="18">Today's 45-Minute Task</text>
+  <text x="34" y="362" fill="#e2e8f0" font-family="Menlo, Consolas, monospace" font-size="17">Draw a robot arm picking up a mug. Label observation, action,</text>
+  <text x="34" y="388" fill="#e2e8f0" font-family="Menlo, Consolas, monospace" font-size="17">policy, feedback, and one failure case.</text>
+
+  <text x="34" y="434" fill="#a7f3d0" font-family="Menlo, Consolas, monospace" font-size="18">Done When</text>
+  <text x="34" y="464" fill="#e2e8f0" font-family="Menlo, Consolas, monospace" font-size="17">You can explain why incomplete observation can cause a bad action.</text>
+
+  <text x="34" y="508" fill="#94a3b8" font-family="Menlo, Consolas, monospace" font-size="15">Goal -> Map -> Tutor -> Build -> Reflect -> Tomorrow</text>
+</svg>
+

@@ -1,0 +1,4 @@
+display_name: Paper To Practice
+short_description: Turn a paper, repo, lecture, or article into method cards and reproduction steps.
+default_prompt: "$paper-to-practice Help me read this technical source. Extract the task setup, method cards, reproduction ladder, and next action."
+

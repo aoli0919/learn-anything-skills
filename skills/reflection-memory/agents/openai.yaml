@@ -1,0 +1,4 @@
+display_name: Reflection Memory
+short_description: Turn a learning session into logs, review cards, and tomorrow's task.
+default_prompt: "$reflection-memory I finished a learning session. Make a log, review cards, plan adjustment, and tomorrow's task."
+
