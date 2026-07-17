@@ -132,6 +132,7 @@ Read the usage guide:
 - [Launch Kit](docs/LAUNCH.md)
 - [100 Skill Index](docs/SKILL_INDEX.md)
 - [100 Skills Launch Note](docs/100_SKILLS_LAUNCH.md)
+- [20 Satellite Skill Repositories](docs/SATELLITE_REPOS.md)
 
 Then ask your agent something like:
 

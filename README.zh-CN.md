@@ -76,6 +76,7 @@ python3 scripts/validate_skills.py
 - [发布传播包](docs/LAUNCH.md)
 - [100 个 Skills 索引](docs/SKILL_INDEX.md)
 - [100 Skills 发布文案](docs/100_SKILLS_LAUNCH.md)
+- [20 个独立 Skills 仓库](docs/SATELLITE_REPOS.md)
 
 ## 示例输入
 
