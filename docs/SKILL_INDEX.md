@@ -2,6 +2,30 @@
 
 This repository now contains 100 beginner-first learning skills.
 
+![100 skill map](../assets/skill-map.svg)
+
+## How To Browse
+
+Start from the category that matches your current problem:
+
+| Category | Count | Start here when... |
+| --- | ---: | --- |
+| [Core And Existing Extensions](#core-and-existing-extensions) | 14 | you need the main learning loop or common helper skills |
+| [AI Research](#ai-research) | 10 | you are reading papers, benchmarks, datasets, or research trends |
+| [Embodied AI](#embodied-ai) | 11 | you are learning robotics, simulation, RL, tactile sensing, or VLA systems |
+| [Foundations](#foundations) | 11 | math, Python, algorithms, probability, or ML basics are blocking you |
+| [Learning Ops](#learning-ops) | 10 | you need habits, review, focus, flashcards, or daily planning |
+| [Communication](#communication) | 10 | you want to explain, teach, write, present, or publish what you learned |
+| [Career Research](#career-research) | 12 | you are using learning for PhD, internships, jobs, products, or markets |
+| [Tools Data](#tools-data) | 12 | you are learning docs, APIs, notebooks, data, debugging, tests, or CLI tools |
+| [Trust Meta](#trust-meta) | 10 | you need verification, source trust, safety, privacy, or metacognition |
+
+Quick route for most beginners:
+
+```text
+learning-compass -> field-primer -> socratic-tutor -> project-lab -> reflection-memory
+```
+
 ## Core And Existing Extensions
 
 | Skill | Use |

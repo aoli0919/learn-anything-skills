@@ -9,6 +9,12 @@ A beginner-first agent skill pack that turns "I want to learn X" into a 30-day p
 
 ![Terminal demo](assets/demo-terminal.svg)
 
+## At A Glance
+
+![Learning loop](assets/learning-loop.svg)
+
+![100 skill map](assets/skill-map.svg)
+
 ## You Bring
 
 - a topic you want to learn
@@ -136,101 +142,29 @@ Use the learning system to give me a 30-day plan and today's first task.
 
 ## The 100 Skills
 
-The first 14 are the main loop and hot extensions. The full library now contains 100 skills across AI research, embodied AI, foundations, learning operations, communication, career research, tools/data, and trust/metacognition.
+The library is grouped by what the learner is trying to do. Start with the core loop, then pull in specialist skills only when needed.
 
-See the full table: [100 Skill Index](docs/SKILL_INDEX.md).
+| Area | Count | Use it for |
+| --- | ---: | --- |
+| Core loop + hot extensions | 14 | planning, concept maps, tutoring, projects, reflection, source scouting |
+| AI research and papers | 10 | arXiv, literature review, benchmarks, datasets, reproductions |
+| Embodied AI and robotics | 11 | simulation, RL intuition, robot policies, tactile sensing, VLA papers |
+| Foundations | 11 | math gaps, Python drills, algorithms, probability, ML concepts |
+| Learning operations | 10 | daily plans, spaced review, flashcards, focus, deliberate practice |
+| Communication | 10 | teaching, blog posts, XHS notes, portfolios, presentations |
+| Career and research | 12 | PhD workflows, internships, market research, product judgment |
+| Tools and data | 12 | docs, APIs, notebooks, data analysis, debugging, tests |
+| Trust and metacognition | 10 | claim checks, source audits, privacy, safety, decision journals |
 
-### Core Learning Loop
+Browse the full table: [100 Skill Index](docs/SKILL_INDEX.md).
 
-#### 1. Learning Compass
-
-Use this when your goal is messy:
+Recommended first path:
 
 ```text
-I want to learn embodied AI, but I do not know where to start.
+$learning-compass -> $field-primer -> $socratic-tutor -> $project-lab -> $reflection-memory
 ```
 
-It produces a learning brief, prerequisite audit, 30-day loop, first week plan, and one concrete task for today.
-
-#### 2. Field Primer
-
-Use this when a field feels like a wall of words.
-
-It builds a beginner map with:
-
-- core concepts
-- prerequisite ladders
-- vocabulary
-- real-world examples
-- common beginner traps
-- what to ignore for now
-
-#### 3. Socratic Tutor
-
-Use this when you want to learn actively instead of passively reading.
-
-It teaches one idea at a time, asks short questions, catches fuzzy understanding, and adapts the next explanation.
-
-#### 4. Paper to Practice
-
-Use this when you have a paper, blog post, lecture, or GitHub repo and want to understand what it means in practice.
-
-It extracts:
-
-- the problem
-- the method
-- the assumptions
-- the minimal implementation idea
-- what a beginner should reproduce
-- what to read next
-
-#### 5. Project Lab
-
-Use this when you need a small build.
-
-It creates 2-hour, 1-day, and 1-week projects that turn vague knowledge into visible progress.
-
-#### 6. Reflection Memory
-
-Use this at the end of a session.
-
-It writes a learning log, captures open questions, schedules review, and updates tomorrow's task.
-
-### Hot Skill Extensions
-
-These skills were added after reviewing popular skill patterns: concise mode, human-centered outputs, source curation, book/course conversion, codebase-to-course workflows, graph-style knowledge maps, diagnosis loops, and validation through tests.
-
-#### 7. Trend Radar
-
-Use this for fast-moving fields. It turns recent papers, launches, debates, and news into a weekly learning radar with hype to ignore and one action to take.
-
-#### 8. Source Scout
-
-Use this when you have too many tabs. It ranks 3-5 trustworthy resources and tells you exactly what to use, skip, and do first.
-
-#### 9. Book to Skill
-
-Use this when a book, course, PDF, or long guide should become a reusable study system with chapter maps, cards, and a first session.
-
-#### 10. Codebase Apprentice
-
-Use this to turn a GitHub repo or local codebase into a guided course with entry points, reading path, exercises, and first file to inspect.
-
-#### 11. Knowledge Graph
-
-Use this when concepts feel disconnected. It builds a small node-edge graph, weak nodes, review cards, and the next concept edge to study.
-
-#### 12. Stuck Debugger
-
-Use this when learning stalls. It diagnoses the blocker, downgrades the task, and gives a 30-minute recovery plan.
-
-#### 13. Exam Simulator
-
-Use this to test understanding with recall, application, transfer, answer keys, rubrics, weak spots, and review tasks.
-
-#### 14. Token Frugal Mentor
-
-Use this when you want low-token guidance: one task, one artifact, one check question, one stop rule, and one log sentence.
+When you get stuck, use `$stuck-debugger`. When the field is moving fast, use `$trend-radar`. When you want proof that you understand, use `$exam-simulator`.
 
 ## Example: Embodied AI
 
@@ -281,11 +215,14 @@ learn-anything-skills/
   skills/
     learning-compass/
     field-primer/
-    socratic-tutor/
-    paper-to-practice/
-    project-lab/
-    reflection-memory/
+    ...
+    curiosity-engine/
+    100 skill folders total
+  assets/
+    learning-loop.svg
+    skill-map.svg
   examples/
+  docs/
   templates/
   scripts/
 ```

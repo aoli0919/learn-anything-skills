@@ -10,6 +10,12 @@
 
 比如你想学具身智能，但只知道 Python 和一点机器学习。系统不会直接丢给你几十篇论文，而是先问清楚你现在在哪，然后给你一个 30 天路径、今天能做的一件事、下一次怎么复盘。
 
+## 总览图
+
+![学习循环](assets/learning-loop.svg)
+
+![100 skills 分类图](assets/skill-map.svg)
+
 ## 包含哪些 skills
 
 前 14 个是主循环和热点扩展：
@@ -32,6 +38,14 @@
 完整版本已经扩展到 100 个 skill，覆盖 AI 论文、具身智能、数学基础、学习习惯、写作表达、科研职业、工具数据、可信度检查和元认知。
 
 完整索引看这里：[100 Skill Index](docs/SKILL_INDEX.md)
+
+最推荐的第一条路径：
+
+```text
+$learning-compass -> $field-primer -> $socratic-tutor -> $project-lab -> $reflection-memory
+```
+
+如果卡住，用 `$stuck-debugger`。如果想追热点，用 `$trend-radar`。如果想知道自己到底会不会，用 `$exam-simulator`。
 
 ## 适合谁
 

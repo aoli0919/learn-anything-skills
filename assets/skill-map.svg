@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="620" viewBox="0 0 1120 620" role="img" aria-label="100 skill category map">
+  <rect width="1120" height="620" rx="22" fill="#f8fafc"/>
+  <text x="56" y="58" fill="#0f172a" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700">100-skill map</text>
+  <text x="56" y="88" fill="#475569" font-family="Inter, Arial, sans-serif" font-size="16">A browsable learning system, grouped by what a beginner is trying to do.</text>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="56" y="126" width="318" height="92" rx="16" fill="#e0f2fe" stroke="#0284c7"/>
+    <text x="82" y="162" fill="#075985" font-size="18" font-weight="700">Core loop + hot extensions</text>
+    <text x="82" y="190" fill="#0f172a" font-size="15">14 skills: plan, map, tutor, build, reflect</text>
+
+    <rect x="402" y="126" width="318" height="92" rx="16" fill="#dcfce7" stroke="#16a34a"/>
+    <text x="428" y="162" fill="#166534" font-size="18" font-weight="700">AI research and papers</text>
+    <text x="428" y="190" fill="#0f172a" font-size="15">10 skills: papers, benchmarks, datasets</text>
+
+    <rect x="748" y="126" width="318" height="92" rx="16" fill="#fef9c3" stroke="#ca8a04"/>
+    <text x="774" y="162" fill="#854d0e" font-size="18" font-weight="700">Embodied AI and robotics</text>
+    <text x="774" y="190" fill="#0f172a" font-size="15">11 skills: RL, sim, tactile, VLA, control</text>
+
+    <rect x="56" y="248" width="318" height="92" rx="16" fill="#f1f5f9" stroke="#64748b"/>
+    <text x="82" y="284" fill="#334155" font-size="18" font-weight="700">Foundations</text>
+    <text x="82" y="312" fill="#0f172a" font-size="15">11 skills: math, Python, ML, algorithms</text>
+
+    <rect x="402" y="248" width="318" height="92" rx="16" fill="#ede9fe" stroke="#7c3aed"/>
+    <text x="428" y="284" fill="#5b21b6" font-size="18" font-weight="700">Learning operations</text>
+    <text x="428" y="312" fill="#0f172a" font-size="15">10 skills: review, cards, timebox, focus</text>
+
+    <rect x="748" y="248" width="318" height="92" rx="16" fill="#fae8ff" stroke="#c026d3"/>
+    <text x="774" y="284" fill="#86198f" font-size="18" font-weight="700">Communication</text>
+    <text x="774" y="312" fill="#0f172a" font-size="15">10 skills: explain, write, teach, present</text>
+
+    <rect x="56" y="370" width="318" height="92" rx="16" fill="#ffedd5" stroke="#ea580c"/>
+    <text x="82" y="406" fill="#9a3412" font-size="18" font-weight="700">Career and research</text>
+    <text x="82" y="434" fill="#0f172a" font-size="15">12 skills: PhD, jobs, market, product</text>
+
+    <rect x="402" y="370" width="318" height="92" rx="16" fill="#ccfbf1" stroke="#0f766e"/>
+    <text x="428" y="406" fill="#115e59" font-size="18" font-weight="700">Tools and data</text>
+    <text x="428" y="434" fill="#0f172a" font-size="15">12 skills: docs, APIs, notebooks, debug</text>
+
+    <rect x="748" y="370" width="318" height="92" rx="16" fill="#fee2e2" stroke="#dc2626"/>
+    <text x="774" y="406" fill="#991b1b" font-size="18" font-weight="700">Trust and metacognition</text>
+    <text x="774" y="434" fill="#0f172a" font-size="15">10 skills: verify, safety, privacy, decisions</text>
+  </g>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="56" y="510" width="1010" height="54" rx="14" fill="#ffffff" stroke="#cbd5e1"/>
+    <text x="86" y="544" fill="#0f172a" font-size="15">Best first path:</text>
+    <text x="205" y="544" fill="#334155" font-size="15">learning-compass -> field-primer -> socratic-tutor -> project-lab -> reflection-memory</text>
+  </g>
+</svg>
+
