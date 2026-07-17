@@ -1,0 +1,3 @@
+display_name: Note Refinery
+short_description: Turn messy notes into concept cards, action items, weak questions, and a review plan.
+default_prompt: "$note-refinery Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

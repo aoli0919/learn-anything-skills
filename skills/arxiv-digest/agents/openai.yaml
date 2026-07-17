@@ -1,0 +1,3 @@
+display_name: Arxiv Digest
+short_description: Turn a batch of arXiv papers into a beginner-safe digest with themes, must-read picks, skip list, and next action.
+default_prompt: "$arxiv-digest Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

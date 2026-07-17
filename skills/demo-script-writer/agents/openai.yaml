@@ -1,0 +1,3 @@
+display_name: Demo Script Writer
+short_description: Write a demo script for a learning project with setup, narrative, failure handling, and takeaway.
+default_prompt: "$demo-script-writer Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: Deliberate Practice
+short_description: Design focused practice loops with narrow targets, feedback, repetition, and difficulty scaling.
+default_prompt: "$deliberate-practice Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

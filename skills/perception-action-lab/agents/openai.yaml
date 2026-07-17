@@ -1,0 +1,3 @@
+display_name: Perception Action Lab
+short_description: Teach the perception-action-feedback loop through diagrams, toy tasks, failure cases, and check questions.
+default_prompt: "$perception-action-lab Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

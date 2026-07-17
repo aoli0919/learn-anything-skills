@@ -1,0 +1,3 @@
+display_name: Visualization Coach
+short_description: Help learners choose charts, avoid misleading visuals, and explain one insight clearly.
+default_prompt: "$visualization-coach Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

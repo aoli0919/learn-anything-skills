@@ -1,0 +1,3 @@
+display_name: Imitation Learning Lab
+short_description: Explain imitation learning through demonstrations, behavior cloning, data quality, covariate shift, and small practice tasks.
+default_prompt: "$imitation-learning-lab Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

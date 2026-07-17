@@ -1,0 +1,3 @@
+display_name: Repo Issue Mentor
+short_description: Help beginners learn from GitHub issues by triaging labels, reproducing problems, and choosing first contributions.
+default_prompt: "$repo-issue-mentor Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

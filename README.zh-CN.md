@@ -1,6 +1,6 @@
 # Learn Anything Skills
 
-一套给初学者用的开源自我学习系统 skills。
+一套给初学者用的开源自我学习系统 skills。现在包含 100 个 skill。
 
 它不是“给你一堆资料链接”，而是帮你把一个陌生领域拆成可以每天推进的学习循环：
 
@@ -11,6 +11,8 @@
 比如你想学具身智能，但只知道 Python 和一点机器学习。系统不会直接丢给你几十篇论文，而是先问清楚你现在在哪，然后给你一个 30 天路径、今天能做的一件事、下一次怎么复盘。
 
 ## 包含哪些 skills
+
+前 14 个是主循环和热点扩展：
 
 1. **Learning Compass**：把模糊目标变成 30 天学习路线。
 2. **Field Primer**：把陌生领域讲成初学者能看懂的地图。
@@ -27,7 +29,9 @@
 13. **Exam Simulator**：用测试、答案、rubric 找出薄弱点。
 14. **Token Frugal Mentor**：省 token、少废话，只给下一步、检查题和停止规则。
 
-后 8 个是参考当前热门 skills 的共性加上的扩展：省 token、资源筛选、书转 skill、代码库转课程、知识图谱、卡住诊断、考试验证、热点雷达。
+完整版本已经扩展到 100 个 skill，覆盖 AI 论文、具身智能、数学基础、学习习惯、写作表达、科研职业、工具数据、可信度检查和元认知。
+
+完整索引看这里：[100 Skill Index](docs/SKILL_INDEX.md)
 
 ## 适合谁
 
@@ -56,6 +60,8 @@ python3 scripts/validate_skills.py
 - [具身智能领域包](domains/embodied-ai.md)
 - [项目推广文案](docs/PITCH.md)
 - [发布传播包](docs/LAUNCH.md)
+- [100 个 Skills 索引](docs/SKILL_INDEX.md)
+- [100 Skills 发布文案](docs/100_SKILLS_LAUNCH.md)
 
 ## 示例输入
 

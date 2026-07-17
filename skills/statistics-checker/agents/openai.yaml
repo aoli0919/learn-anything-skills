@@ -1,0 +1,3 @@
+display_name: Statistics Checker
+short_description: Help learners check statistical claims, sample sizes, uncertainty, correlations, p-values, and practical interpretation.
+default_prompt: "$statistics-checker Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

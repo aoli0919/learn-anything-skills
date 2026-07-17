@@ -1,0 +1,3 @@
+display_name: Robot Evaluation
+short_description: Help beginners evaluate embodied systems with success rates, robustness, safety, generalization, and qualitative failure notes.
+default_prompt: "$robot-evaluation Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

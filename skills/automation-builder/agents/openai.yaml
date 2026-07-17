@@ -1,0 +1,3 @@
+display_name: Automation Builder
+short_description: Turn repeated learning workflows into small scripts, checklists, or automations with safety boundaries.
+default_prompt: "$automation-builder Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

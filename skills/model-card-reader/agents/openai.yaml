@@ -1,0 +1,3 @@
+display_name: Model Card Reader
+short_description: Read model cards and technical reports for capabilities, limits, data, evals, risks, and practical learning actions.
+default_prompt: "$model-card-reader Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

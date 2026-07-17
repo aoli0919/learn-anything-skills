@@ -1,0 +1,3 @@
+display_name: XHS Learning Note
+short_description: Turn a learning journey into a Xiaohongshu-style note with concrete scenes, beginner honesty, and low AI flavor.
+default_prompt: "$xhs-learning-note Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

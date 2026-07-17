@@ -1,0 +1,3 @@
+display_name: Paper Club Host
+short_description: Run a paper club session with roles, questions, timeline, discussion prompts, and takeaway artifacts.
+default_prompt: "$paper-club-host Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: Retrieval Practice
+short_description: Generate recall, application, and transfer prompts before new studying to strengthen memory.
+default_prompt: "$retrieval-practice Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

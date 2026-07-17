@@ -1,0 +1,3 @@
+display_name: Linear Algebra Lab
+short_description: Teach vectors, matrices, projections, eigen ideas, and transformations through visual examples and checks.
+default_prompt: "$linear-algebra-lab Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

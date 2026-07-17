@@ -1,0 +1,3 @@
+display_name: Data Analysis Primer
+short_description: Teach data analysis through questions, columns, cleaning, plots, checks, and interpretation.
+default_prompt: "$data-analysis-primer Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

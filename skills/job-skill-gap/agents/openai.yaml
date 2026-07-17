@@ -1,0 +1,3 @@
+display_name: Job Skill Gap
+short_description: Compare a learner profile to a job or field and produce a focused gap-closing plan.
+default_prompt: "$job-skill-gap Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

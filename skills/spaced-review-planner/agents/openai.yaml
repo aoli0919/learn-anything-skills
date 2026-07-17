@@ -1,0 +1,3 @@
+display_name: Spaced Review Planner
+short_description: Schedule spaced reviews for concepts, papers, projects, and mistakes without overloading the learner.
+default_prompt: "$spaced-review-planner Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: PhD Research Compass
+short_description: Help PhD learners turn broad interests into reading paths, experiments, meeting notes, and next research moves.
+default_prompt: "$phd-research-compass Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

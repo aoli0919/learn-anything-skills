@@ -1,0 +1,3 @@
+display_name: Claim Verifier
+short_description: Verify learning claims with source requirements, confidence labels, counterexamples, and next checks.
+default_prompt: "$claim-verifier Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

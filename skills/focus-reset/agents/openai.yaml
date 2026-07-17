@@ -1,0 +1,3 @@
+display_name: Focus Reset
+short_description: Recover from distraction or overload with a small reset protocol and one tiny learning task.
+default_prompt: "$focus-reset Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

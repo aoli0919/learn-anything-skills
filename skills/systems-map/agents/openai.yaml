@@ -1,0 +1,3 @@
+display_name: Systems Map
+short_description: Map how software systems fit together: processes, memory, networking, storage, queues, and failure points.
+default_prompt: "$systems-map Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

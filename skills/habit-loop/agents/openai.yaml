@@ -1,0 +1,3 @@
+display_name: Habit Loop
+short_description: Design a lightweight learning habit with trigger, task, reward, friction removal, and recovery path.
+default_prompt: "$habit-loop Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

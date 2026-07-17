@@ -1,0 +1,3 @@
+display_name: Internship Roadmap
+short_description: Build a learning and portfolio roadmap for internships with skill gaps, projects, and outreach tasks.
+default_prompt: "$internship-roadmap Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

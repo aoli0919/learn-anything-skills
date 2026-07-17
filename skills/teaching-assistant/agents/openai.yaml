@@ -1,0 +1,3 @@
+display_name: Teaching Assistant
+short_description: Create lesson plans, examples, exercises, answer keys, and student misconceptions for teaching a concept.
+default_prompt: "$teaching-assistant Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

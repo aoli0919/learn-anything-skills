@@ -2,7 +2,7 @@
 
 ## v0.1
 
-- Fourteen skills: six core learning-loop skills plus eight hot-pattern extensions
+- 100 skills: six core learning-loop skills, eight initial hot-pattern extensions, and 86 additional learning operators
 - Install script
 - Validation script
 - Embodied AI examples
@@ -10,7 +10,7 @@
 
 ## v0.2
 
-- More domain packs:
+- More domain packs and deeper examples:
   - robotics
   - AI paper reading
   - investing

@@ -1,0 +1,3 @@
+display_name: Probability Intuition
+short_description: Build probability intuition with uncertainty, distributions, Bayes, expectation, variance, and simulation tasks.
+default_prompt: "$probability-intuition Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: Ethics Primer
+short_description: Teach ethical dimensions of a field through stakeholders, harms, tradeoffs, governance, and reflection.
+default_prompt: "$ethics-primer Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: Reproduction Planner
+short_description: Plan a paper reproduction at sketch, toy, and serious levels with resource caps and stopping rules.
+default_prompt: "$reproduction-planner Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

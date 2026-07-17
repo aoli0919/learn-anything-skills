@@ -1,0 +1,3 @@
+display_name: Lab Meeting Prep
+short_description: Prepare lab meeting updates with progress, blockers, evidence, questions, and asks.
+default_prompt: "$lab-meeting-prep Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

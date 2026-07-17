@@ -1,0 +1,3 @@
+display_name: Startup Idea Validator
+short_description: Help beginners validate ideas with user problem, assumptions, tests, evidence, and no-code experiments.
+default_prompt: "$startup-idea-validator Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

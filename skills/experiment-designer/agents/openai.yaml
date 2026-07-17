@@ -1,0 +1,3 @@
+display_name: Experiment Designer
+short_description: Convert a learning question into a small experiment with hypothesis, variables, controls, metric, and failure modes.
+default_prompt: "$experiment-designer Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

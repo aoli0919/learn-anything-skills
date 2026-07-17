@@ -1,0 +1,3 @@
+display_name: Technical Writing
+short_description: Help learners write technical explanations, docs, reports, and READMEs with examples and review rubrics.
+default_prompt: "$technical-writing Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

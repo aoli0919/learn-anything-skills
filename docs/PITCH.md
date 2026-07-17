@@ -104,8 +104,8 @@ The included example is embodied AI for beginners.
 
 ## How This Repo Addresses Them
 
-- Fourteen separate skills with clear responsibilities.
-- Hot-pattern extensions for trend scans, source curation, book-to-skill conversion, codebase courses, knowledge graphs, stuck diagnosis, exam simulation, and token-frugal mentoring.
+- 100 separate skills with clear responsibilities.
+- Hot-pattern extensions for trend scans, source curation, book-to-skill conversion, codebase courses, knowledge graphs, stuck diagnosis, exam simulation, token-frugal mentoring, AI research, embodied AI, foundations, tools, trust, and metacognition.
 - Install script and validation script.
 - Embodied AI examples.
 - Templates for logs, concepts, and projects.

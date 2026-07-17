@@ -1,0 +1,3 @@
+display_name: Portfolio Builder
+short_description: Turn learning artifacts into a portfolio page, project README, or proof-of-work timeline.
+default_prompt: "$portfolio-builder Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

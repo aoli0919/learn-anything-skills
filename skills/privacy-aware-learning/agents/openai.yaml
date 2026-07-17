@@ -1,0 +1,3 @@
+display_name: Privacy Aware Learning
+short_description: Help learners avoid leaking private data while using AI tools, notes, screenshots, and repositories.
+default_prompt: "$privacy-aware-learning Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

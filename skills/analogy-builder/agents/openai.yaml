@@ -1,0 +1,3 @@
+display_name: Analogy Builder
+short_description: Build accurate analogies for hard concepts while marking where the analogy breaks.
+default_prompt: "$analogy-builder Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: Blog Post From Learning
+short_description: Turn a learning session or project into a clear blog post with evidence and low hype.
+default_prompt: "$blog-post-from-learning Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

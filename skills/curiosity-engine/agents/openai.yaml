@@ -1,0 +1,3 @@
+display_name: Curiosity Engine
+short_description: Generate high-quality questions that open a field without creating distraction or resource overload.
+default_prompt: "$curiosity-engine Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: Debugging Tutor
+short_description: Teach debugging through reproduction, hypotheses, logs, minimal cases, and fix verification.
+default_prompt: "$debugging-tutor Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

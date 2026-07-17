@@ -1,0 +1,3 @@
+display_name: Control Basics
+short_description: Introduce control basics such as feedback, error, setpoints, stability, and controllers without burying beginners in equations.
+default_prompt: "$control-basics Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

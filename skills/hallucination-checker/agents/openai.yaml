@@ -1,0 +1,3 @@
+display_name: Hallucination Checker
+short_description: Check AI-generated learning material for unsupported claims, missing sources, contradictions, and safer wording.
+default_prompt: "$hallucination-checker Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

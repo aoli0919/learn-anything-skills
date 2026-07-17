@@ -1,0 +1,3 @@
+display_name: Python Drills
+short_description: Generate tiny Python drills tied to the learner topic with solutions, checks, and no-overwhelm pacing.
+default_prompt: "$python-drills Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

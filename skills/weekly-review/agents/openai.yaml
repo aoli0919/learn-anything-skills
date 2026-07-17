@@ -1,0 +1,3 @@
+display_name: Weekly Review
+short_description: Review a week of learning, identify compounding progress, weak spots, and next week adjustments.
+default_prompt: "$weekly-review Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: Sensor Fusion Primer
+short_description: Explain how cameras, depth, touch, IMU, and proprioception combine, with examples and beginner check tasks.
+default_prompt: "$sensor-fusion-primer Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

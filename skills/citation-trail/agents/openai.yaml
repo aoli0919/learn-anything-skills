@@ -1,0 +1,3 @@
+display_name: Citation Trail
+short_description: Trace citations backward and forward to find prerequisites, lineage, disputes, and one next paper.
+default_prompt: "$citation-trail Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

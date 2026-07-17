@@ -1,0 +1,3 @@
+display_name: Networking Question Drafter
+short_description: Draft high-signal mentor, professor, or expert questions based on the learner goal and current confusion.
+default_prompt: "$networking-question-drafter Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

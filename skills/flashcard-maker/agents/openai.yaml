@@ -1,0 +1,3 @@
+display_name: Flashcard Maker
+short_description: Create high-signal flashcards from notes, papers, lectures, or projects with review timing.
+default_prompt: "$flashcard-maker Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

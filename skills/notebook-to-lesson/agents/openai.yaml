@@ -1,0 +1,3 @@
+display_name: Notebook To Lesson
+short_description: Turn a notebook into a lesson by extracting assumptions, cells, outputs, exercises, and checkpoints.
+default_prompt: "$notebook-to-lesson Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

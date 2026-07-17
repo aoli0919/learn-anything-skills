@@ -1,0 +1,3 @@
+display_name: Metacognition Coach
+short_description: Help learners notice how they think, where confidence is misplaced, and what strategy to adjust.
+default_prompt: "$metacognition-coach Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

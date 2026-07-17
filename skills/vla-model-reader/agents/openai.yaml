@@ -1,0 +1,3 @@
+display_name: VLA Model Reader
+short_description: Read vision-language-action model papers by separating language grounding, robot data, policy heads, tasks, and evaluation.
+default_prompt: "$vla-model-reader Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

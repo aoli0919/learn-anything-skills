@@ -1,0 +1,3 @@
+display_name: Presentation Coach
+short_description: Turn learning into a short presentation with story, slides outline, demo, and Q&A prep.
+default_prompt: "$presentation-coach Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

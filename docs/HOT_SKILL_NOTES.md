@@ -1,6 +1,6 @@
 # Hot Skill Notes
 
-These notes record the patterns used when adding the eight extension skills.
+These notes record the patterns used when adding the hot-pattern extension skills, including the later expansion to 100 total skills.
 
 ## Patterns Observed
 
@@ -25,4 +25,3 @@ Popular agent skill repositories tend to share these traits:
 - `knowledge-graph`: graph-style concept memory.
 - `stuck-debugger`: diagnosis and recovery loop.
 - `exam-simulator`: validation through tests and rubrics.
-

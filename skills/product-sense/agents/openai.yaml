@@ -1,0 +1,3 @@
+display_name: Product Sense
+short_description: Build product judgment through user jobs, constraints, tradeoffs, metrics, and critique exercises.
+default_prompt: "$product-sense Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

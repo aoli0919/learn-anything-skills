@@ -1,0 +1,3 @@
+display_name: Explain Like Teacher
+short_description: Help learners explain a concept clearly with examples, checks, analogies, and common misconceptions.
+default_prompt: "$explain-like-teacher Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: Grant Proposal Primer
+short_description: Teach proposal thinking through problem, gap, aims, method, risk, timeline, and reviewer questions.
+default_prompt: "$grant-proposal-primer Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

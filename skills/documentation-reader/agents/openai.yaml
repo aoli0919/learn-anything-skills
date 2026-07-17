@@ -1,0 +1,3 @@
+display_name: Documentation Reader
+short_description: Teach learners to read docs by finding entry points, examples, concepts, and first runnable task.
+default_prompt: "$documentation-reader Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

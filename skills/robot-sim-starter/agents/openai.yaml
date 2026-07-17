@@ -1,0 +1,3 @@
+display_name: Robot Sim Starter
+short_description: Help beginners start with simulation before hardware by choosing tiny environments, fallback paths, and first motion demos.
+default_prompt: "$robot-sim-starter Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: Learning Safety
+short_description: Keep learning safe around medical, legal, financial, robotics, security, and risky implementation topics.
+default_prompt: "$learning-safety Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

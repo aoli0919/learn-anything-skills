@@ -1,0 +1,3 @@
+display_name: ML Concepts Ladder
+short_description: Build a machine learning prerequisite ladder from data and models to training, evaluation, and deployment.
+default_prompt: "$ml-concepts-ladder Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

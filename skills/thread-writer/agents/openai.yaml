@@ -1,0 +1,3 @@
+display_name: Thread Writer
+short_description: Turn a concept or project into a concise social thread with hook, steps, proof, and caveats.
+default_prompt: "$thread-writer Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

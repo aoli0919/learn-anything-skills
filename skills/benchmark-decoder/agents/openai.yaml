@@ -1,0 +1,3 @@
+display_name: Benchmark Decoder
+short_description: Explain benchmarks, leaderboards, metrics, datasets, baselines, and what a beginner should not overinterpret.
+default_prompt: "$benchmark-decoder Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

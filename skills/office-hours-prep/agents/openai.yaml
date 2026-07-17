@@ -1,0 +1,3 @@
+display_name: Office Hours Prep
+short_description: Prepare concise office-hours agendas with context, attempted work, questions, and desired feedback.
+default_prompt: "$office-hours-prep Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

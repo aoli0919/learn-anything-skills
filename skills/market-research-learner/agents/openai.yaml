@@ -1,0 +1,3 @@
+display_name: Market Research Learner
+short_description: Teach market research through customer segments, competitors, signals, sources, and decision logs.
+default_prompt: "$market-research-learner Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

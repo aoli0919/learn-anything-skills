@@ -1,0 +1,3 @@
+display_name: Coding Kata Coach
+short_description: Coach deliberate coding practice through small katas, constraints, feedback, and reflection.
+default_prompt: "$coding-kata-coach Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

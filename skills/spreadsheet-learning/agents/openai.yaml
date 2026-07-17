@@ -1,0 +1,3 @@
+display_name: Spreadsheet Learning
+short_description: Use spreadsheets as a learning tool for tables, formulas, models, sanity checks, and small dashboards.
+default_prompt: "$spreadsheet-learning Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

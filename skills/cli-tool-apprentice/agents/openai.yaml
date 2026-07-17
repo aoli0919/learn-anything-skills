@@ -1,0 +1,3 @@
+display_name: CLI Tool Apprentice
+short_description: Teach a command-line tool through first commands, flags, examples, errors, and practice tasks.
+default_prompt: "$cli-tool-apprentice Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

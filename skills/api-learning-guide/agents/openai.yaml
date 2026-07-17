@@ -1,0 +1,3 @@
+display_name: API Learning Guide
+short_description: Guide beginners through an API with authentication, first request, response reading, errors, and next task.
+default_prompt: "$api-learning-guide Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

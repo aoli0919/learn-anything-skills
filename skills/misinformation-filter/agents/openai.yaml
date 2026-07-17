@@ -1,0 +1,3 @@
+display_name: Misinformation Filter
+short_description: Filter low-quality claims, viral posts, cherry-picked evidence, and misleading charts in a learning topic.
+default_prompt: "$misinformation-filter Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

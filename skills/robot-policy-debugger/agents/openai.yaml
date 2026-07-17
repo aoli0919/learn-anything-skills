@@ -1,0 +1,3 @@
+display_name: Robot Policy Debugger
+short_description: Diagnose why a robot or simulated policy behaves strangely by inspecting observations, actions, rewards, and environment changes.
+default_prompt: "$robot-policy-debugger Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

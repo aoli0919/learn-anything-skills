@@ -1,0 +1,3 @@
+display_name: RL Intuition
+short_description: Build reinforcement learning intuition with agents, rewards, policies, trajectories, exploration, and tiny examples.
+default_prompt: "$rl-intuition Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

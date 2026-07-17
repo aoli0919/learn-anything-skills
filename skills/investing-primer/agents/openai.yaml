@@ -1,0 +1,3 @@
+display_name: Investing Primer
+short_description: Teach investing topics with thesis logs, bear cases, source quality, risk, and decision journals.
+default_prompt: "$investing-primer Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

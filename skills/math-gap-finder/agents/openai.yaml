@@ -1,0 +1,3 @@
+display_name: Math Gap Finder
+short_description: Diagnose the exact math gap blocking a learner and build a small prerequisite repair path.
+default_prompt: "$math-gap-finder Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

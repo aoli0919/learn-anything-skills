@@ -2,7 +2,7 @@
 
 [![Validate](https://github.com/aoli0919/learn-anything-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/aoli0919/learn-anything-skills/actions/workflows/validate.yml)
 ![MIT](https://img.shields.io/badge/license-MIT-green)
-![Skills](https://img.shields.io/badge/skills-14-blue)
+![Skills](https://img.shields.io/badge/skills-100-blue)
 ![Beginner First](https://img.shields.io/badge/beginner--first-yes-orange)
 
 A beginner-first agent skill pack that turns "I want to learn X" into a 30-day path, tutor loop, projects, and learning memory.
@@ -25,6 +25,7 @@ A beginner-first agent skill pack that turns "I want to learn X" into a 30-day p
 - small project cards
 - paper-to-practice notes
 - reflection memory for tomorrow
+- 100 specialized learning operators for papers, codebases, math, robotics, research, writing, verification, and metacognition
 
 ## Mini Demo
 
@@ -123,6 +124,8 @@ Read the usage guide:
 - [Embodied AI Domain Pack](domains/embodied-ai.md)
 - [Project Pitch](docs/PITCH.md)
 - [Launch Kit](docs/LAUNCH.md)
+- [100 Skill Index](docs/SKILL_INDEX.md)
+- [100 Skills Launch Note](docs/100_SKILLS_LAUNCH.md)
 
 Then ask your agent something like:
 
@@ -131,7 +134,11 @@ I am new to embodied AI. I know basic Python and a little machine learning.
 Use the learning system to give me a 30-day plan and today's first task.
 ```
 
-## The 14 Skills
+## The 100 Skills
+
+The first 14 are the main loop and hot extensions. The full library now contains 100 skills across AI research, embodied AI, foundations, learning operations, communication, career research, tools/data, and trust/metacognition.
+
+See the full table: [100 Skill Index](docs/SKILL_INDEX.md).
 
 ### Core Learning Loop
 
@@ -191,7 +198,7 @@ It writes a learning log, captures open questions, schedules review, and updates
 
 ### Hot Skill Extensions
 
-These eight skills were added after reviewing popular skill patterns: concise mode, human-centered outputs, source curation, book/course conversion, codebase-to-course workflows, graph-style knowledge maps, diagnosis loops, and validation through tests.
+These skills were added after reviewing popular skill patterns: concise mode, human-centered outputs, source curation, book/course conversion, codebase-to-course workflows, graph-style knowledge maps, diagnosis loops, and validation through tests.
 
 #### 7. Trend Radar
 
@@ -245,6 +252,7 @@ More examples:
 - [Investing thesis learning loop](examples/investing-thesis-log.md)
 - [Hot skill extensions gallery](examples/hot-skill-extensions-gallery.md)
 - [Hot skill design notes](docs/HOT_SKILL_NOTES.md)
+- [100 skills launch note](docs/100_SKILLS_LAUNCH.md)
 
 ## Installation Details
 

@@ -1,0 +1,3 @@
+display_name: Causal Thinking
+short_description: Teach causal thinking with confounders, interventions, DAG-like sketches, counterfactuals, and bad inference traps.
+default_prompt: "$causal-thinking Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

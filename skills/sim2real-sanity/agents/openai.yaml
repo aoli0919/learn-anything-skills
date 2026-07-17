@@ -1,0 +1,3 @@
+display_name: Sim2Real Sanity
+short_description: Teach sim-to-real risks through assumptions, mismatch tables, robustness checks, and beginner-safe expectations.
+default_prompt: "$sim2real-sanity Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: Algorithms Primer
+short_description: Teach algorithmic thinking through examples, traces, complexity intuition, and small implementation exercises.
+default_prompt: "$algorithms-primer Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: Timebox Coach
+short_description: Keep learning sessions bounded with time boxes, stop rules, fallback tasks, and visible outputs.
+default_prompt: "$timebox-coach Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

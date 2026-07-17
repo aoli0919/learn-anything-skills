@@ -1,0 +1,3 @@
+display_name: Decision Journal
+short_description: Turn important learning, research, or investing decisions into predictions, evidence, alternatives, and review dates.
+default_prompt: "$decision-journal Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

@@ -1,0 +1,3 @@
+display_name: Test Driven Learning
+short_description: Use tests as learning scaffolds: expected behavior, failing case, minimal implementation, and reflection.
+default_prompt: "$test-driven-learning Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

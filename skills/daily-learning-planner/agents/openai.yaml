@@ -1,0 +1,3 @@
+display_name: Daily Learning Planner
+short_description: Plan a single day of learning with time boxes, one artifact, check question, and stop rule.
+default_prompt: "$daily-learning-planner Help me use this skill for my current learning goal. Keep it beginner-friendly, bounded, and action-oriented."

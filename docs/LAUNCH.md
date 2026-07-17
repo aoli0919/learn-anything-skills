@@ -4,19 +4,19 @@ Use this file when sharing the project.
 
 ## GitHub Description
 
-Beginner-first agent skills that turn "I want to learn X" into a 30-day path, tutor loop, projects, and learning memory.
+100 beginner-first agent skills that turn "I want to learn X" into a 30-day path, tutor loop, projects, and learning memory.
 
 ## HN Title
 
-Show HN: Learn Anything Skills, a beginner-first skill pack for agent-assisted self-learning
+Show HN: Learn Anything Skills, 100 beginner-first skills for agent-assisted self-learning
 
 ## Reddit Title
 
-I built an open-source skill pack that turns a vague learning goal into a 30-day path and daily feedback loop
+I built an open-source 100-skill pack that turns a vague learning goal into a 30-day path and daily feedback loop
 
 ## X / Twitter
 
-I open-sourced Learn Anything Skills.
+I pushed Learn Anything Skills to 100 open-source skills.
 
 It is a beginner-first agent skill pack that turns "I want to learn X" into:
 
@@ -31,12 +31,14 @@ It is a beginner-first agent skill pack that turns "I want to learn X" into:
 - source scouting
 - codebase-to-course learning
 - exam simulation
+- verification and source auditing
+- metacognition
 
 Example included: embodied AI from zero.
 
 ## Xiaohongshu
 
-我做了一个开源的自学 skills 系统。
+我把这个开源自学 skills 系统扩到 100 个了。
 
 它不是给你甩一堆资料，而是把“我想学一个陌生领域”拆成每天能推进的一小步。
 
@@ -44,7 +46,7 @@ Example included: embodied AI from zero.
 
 我越来越觉得，自学最难的不是努力，而是你不知道今天到底该干什么，也不知道昨天的困惑有没有被处理掉。
 
-这个项目就是想解决这个问题。
+这个项目就是想解决这个问题。每个 skill 都要求给出：下一步、可见产物、检查题、忽略什么、资源上限和复盘。
 
 封面字：
 
